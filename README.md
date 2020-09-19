@@ -1,3 +1,3 @@
-# snake
+#GAME OF LIFE
 
-simple game of snake created using p5.js
+game of life created using p5.js
